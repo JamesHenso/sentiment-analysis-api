@@ -206,4 +206,8 @@ python test.py
 
 ### 7. Video demo
 
-[![Video Demo](https://img.youtube.com/vi/NGqhx-RlLI8/maxresdefault.jpg)](https://www.youtube.com/watch?v=NGqhx-RlLI8)
+
+
+https://github.com/user-attachments/assets/c1e9e4a0-237d-4407-867d-41f9978a1c89
+
+
